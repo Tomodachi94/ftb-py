@@ -16,4 +16,4 @@ A full copy of the license should have been distrubuted with this program. If no
 
 ## Background
 ### Naming
-ftb-py is named after [ftb-rs](FTB-Gamepedia/ftb-rs), the toolset for the same wiki written in [Ruby](https://www.ruby-lang.org/).
+ftb-py is named after [ftb-rs](https://github.com/FTB-Gamepedia/ftb-rs), the toolset for the same wiki written in [Ruby](https://www.ruby-lang.org/).
