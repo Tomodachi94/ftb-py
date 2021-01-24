@@ -3,7 +3,7 @@
 
 ## License
 
-Dash - A Discord bot for the FTB Gamepedia Discord.
+ftb-py - A collection of utilities made for the FTB Gamepedia.
 
 [Source](https://github.com/Tomodachi94/Dash)
 © Tomodachi94 2021 MIT License
